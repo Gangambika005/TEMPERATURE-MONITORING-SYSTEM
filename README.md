@@ -94,6 +94,10 @@ Weather stations and environmental sensing systems
 Conclusion :
 This task successfully demonstrates real-time temperature monitoring using the LM35 analog temperature sensor and an LCD display. By integrating sensor input, analog-to-digital conversion, and visual display, this project provides a solid foundation for building more advanced IoT or embedded monitoring systems. The dual output on LCD and Serial Monitor also enhances usability and debugging, making it a reliable and informative embedded system project.
 
+"OUTPUT" :
+
+![Image](https://github.com/user-attachments/assets/9abc8a38-6e60-4b3d-afa8-8288bc5de9df)
+
 
 
 
